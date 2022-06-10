@@ -1,25 +1,18 @@
-### Oiie sou a Larissa Iara🔮
+### Hi there I'm Larissa Iara🔮
 
-<!--
-**dearlaro/dearlaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 I’m currently learning System Development, <br>
+💻 I’m looking for help with C#, Dart, JavaScript e PHP <br>
+🍇 Pronouns: she/her <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats e Linguagens mais usadas -->
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dearlaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dearlaro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<!-- Visuais -->
+  </a><br />
 <div style="display: inline_block"><br>
   <img align="center" alt="lara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lara-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,7 +21,7 @@ Here are some ideas to get you started:
   <img align="center" alt="lara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<!--   <img align="right" alt="lara-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1AUn2y3sN9aSfmGXk6nMC81ZpndE_X_ry/view?usp=sharing?width=676&height=676"> -->
+  <img align="right" alt="lara-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0b3639078f4d5b06633a9ee0f753974c.gif">
 </div>
   <br><br>
 <div> 
