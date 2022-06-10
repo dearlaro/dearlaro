@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="lara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="lara-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0a1917cad8db0147ea1a06bf051c555a.gif">
+<!--   <img align="right" alt="lara-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1AUn2y3sN9aSfmGXk6nMC81ZpndE_X_ry/view?usp=sharing?width=676&height=676"> -->
 </div>
   <br><br>
 <div> 
