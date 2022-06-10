@@ -1,4 +1,4 @@
-### Oiie🔮
+### Oiie soua a Larissa Iara🔮
 
 <!--
 **dearlaro/dearlaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/0a1917cad8db0147ea1a06bf051c555a.gif" width="400" height="400" border="0" alt="https://picasion.com/" /></a><br />
+</div>
+<div>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
