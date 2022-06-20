@@ -1,7 +1,7 @@
 ### Hi there I'm Larissa Iara🔮
 
 👾 I’m currently learning System Development, <br>
-💻 I’m looking for help with C#, Dart, JavaScript e PHP <br>
+💻 I’m looking for help with C#, Dart, JavaScript, Python and PHP <br>
 🍇 Pronouns: she/her <br>
 
 <!-- Stats e Linguagens mais usadas -->
